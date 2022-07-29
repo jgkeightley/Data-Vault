@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Themes/Diagnosis.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Themes/Diagnosis.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Themes/Diagnosis.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Themes/Diagnosis.md"
+                "file": "README.md"
               }
             }
           }
@@ -142,11 +142,11 @@
   },
   "active": "5b71e700fdf52106",
   "lastOpenFiles": [
+    "Themes/Diagnosis.md",
     "Themes/Exercise.md",
     "Themes/Imaging.md",
     "Themes/Injections.md",
     "Themes/Management.md",
-    "Themes/Diagnosis.md",
     "Articles.md",
     "Articles/@PVACSCM2005.md",
     "Articles/@Curtis1995.md",
