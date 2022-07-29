@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "8de1778752c2ddb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa6decb24c43a9dd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Articles.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "5b71e700fdf52106",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Themes/Diagnosis.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38d5adb0c82aa24b",
+    "type": "split",
+    "children": [
+      {
+        "id": "411c43fc2e1500a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca9964fc5de7d262",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "40ae94f02339c05c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "43db449870175be0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ff766951807c0380",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b9755f6ab42a17a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cad4ffc24593fdba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Themes/Diagnosis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13c18b8407d0f8e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Themes/Diagnosis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c63c6dd08ad62c7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "396d1b3509327318",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Themes/Diagnosis.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5b71e700fdf52106",
+  "lastOpenFiles": [
+    "Themes/Exercise.md",
+    "Themes/Imaging.md",
+    "Themes/Injections.md",
+    "Themes/Management.md",
+    "Themes/Diagnosis.md",
+    "Articles.md",
+    "Articles/@PVACSCM2005.md",
+    "Articles/@Curtis1995.md",
+    "Article Example.md",
+    "Articles/@Alves2012.md"
+  ]
+}

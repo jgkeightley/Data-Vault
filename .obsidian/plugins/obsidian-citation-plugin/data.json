@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "",
+  "literatureNoteContentTemplate": "# {{citekey}}\n\n## General Information\nCountry: \nStudy Design: \nSample Size: \nPercentage of Sample with SCI:\nModel of Care: \n\n## Management Themes\n\n\n## Diagnostic Themes\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "G:\\My Drive\\UNDA\\Hons\\Final References Zotero\\My Library.bib"
+}
