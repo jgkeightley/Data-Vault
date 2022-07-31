@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "aa6decb24c43a9dd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Articles.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "5b71e700fdf52106",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Article Example.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ClinicalExam",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Article Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Article Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Article Example.md"
               }
             }
           }
@@ -140,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5b71e700fdf52106",
+  "active": "ca9964fc5de7d262",
   "lastOpenFiles": [
-    "Themes/Diagnosis.md",
-    "Themes/Exercise.md",
-    "Themes/Imaging.md",
-    "Themes/Injections.md",
-    "Themes/Management.md",
     "Articles.md",
+    "README.md",
+    "Articles/@Mehech2018.md",
+    "Articles/@Sirasaporn2021.md",
+    "Articles/@Seol2015.md",
+    "Articles/@Robinson1993.md",
     "Articles/@PVACSCM2005.md",
-    "Articles/@Curtis1995.md",
-    "Article Example.md",
-    "Articles/@Alves2012.md"
+    "Articles/@Popowitz2003.md",
+    "Articles/@Ohry1978.md",
+    "Articles/@Ninomyia2007.md"
   ]
 }
