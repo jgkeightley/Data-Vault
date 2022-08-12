@@ -9,6 +9,7 @@ Percentage of Sample with SCI:
 Model of Care: #management #diagnosis
 
 ## Management Themes
-
+#Surgical 
 
 ## Diagnostic Themes
+#DiagnosticImaging #ClinicalExam 

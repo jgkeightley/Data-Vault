@@ -9,6 +9,7 @@ Percentage of Sample with SCI:
 Model of Care: #management #diagnosis
 
 ## Management Themes
-
+#Surgery #Injection #Exercise #ManualTherapy #ElectrophysicalAgents #Ergonomics #AssistiveTechnologies #Pharmaceutical #Rest 
 
 ## Diagnostic Themes
+#ClinicalExam #DiagnosticOutcomeMeasure 

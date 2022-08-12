@@ -12,3 +12,4 @@ Model of Care: #diagnosis
 
 
 ## Diagnostic Themes
+#ClinicalExam 
