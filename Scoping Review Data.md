@@ -10,11 +10,11 @@ To asssist in the development of high quality literature to inform this multidis
 ## Objective
 The aim of this scoping review was to examine and categorise the published literature that attempts to inform clinical practice as it relates broadly to the management and diagnosis of shoulder pain in SCI. Additionally, we aimed to identify gaps in the literature as they relate to how research is conducted, measured, and reported.
 
-## 🪨 Obsidian
-This [Obsidian](https://obsidian.md/) vault serves as an intuitive way for knowledge users and those interest in our research to interact with our data. We hope that it contributes to the transparency and ease of use of our results to allow the information of future research.
+When synthesising our results, we aimed for them to be accessible and digestible, so we have published this [[🪨 Obsidian|Obsidian Vault]] as a means to achieve this.
 
 ## Our Data
 [[🔍 Search Strategy]]
+[[📊 Results]]
 [[📚 Themes]]
 [[📄 Articles]]
 Make sure to view the graph for a unique visual representation of our data

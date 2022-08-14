@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "72ca80b13e385a83",
+        "id": "d38ce27498cfdb5d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "📊 Results.md",
             "mode": "source",
             "source": false
           }
@@ -40,10 +40,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#surgica",
+                "query": "tag:#exercise",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "📊 Results.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "📊 Results.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,8 +117,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "📊 Results.md"
               }
+            }
+          },
+          {
+            "id": "4bd249190d3f3eb4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ]
@@ -128,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "72ca80b13e385a83",
+  "active": "d38ce27498cfdb5d",
   "lastOpenFiles": [
     "Scoping Review Data.md",
-    "README.md",
-    "Article Example.md",
-    "Raw Data/Raw Data.md",
+    "📊 Results.md",
     "🔍 Search Strategy.md",
-    "Scoping Review Infographic.svg",
-    "Scoping Review Infographic.png",
-    "Articles/@Alves2012.md",
-    "Articles/@Limbasiya2014.md",
-    "Articles/@Medina2011.md"
+    "Images/PRISMA Flow Diagram.svg",
+    "Images/PRISMA Flow Diagram.png",
+    "Images/Scoping Review Infographic.svg",
+    "Images/Table View.png",
+    "Images/Scoping Review Infographic.png",
+    "Study Designs.md",
+    "Raw Data/Raw Data.md"
   ]
 }
