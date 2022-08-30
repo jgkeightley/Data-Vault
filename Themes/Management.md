@@ -21,6 +21,9 @@ tags: theme, management
 | #EMGBioFeedback             | 2   |
 | #RecreationalTherapy        | 1   | 
 
+![[Exercise Themes.png]]
+###### Created with https://flourish.studio/
+
 ## All articles with #Management themes
 [[Apple, 1996]]
 [[Apple, 2001]]

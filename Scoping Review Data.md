@@ -1,4 +1,4 @@
-# Models of Care for Shoulder Pain in Spinal Cord Injury: A Scoping Review
+# Models of Care for Musculoskeletal Shoulder Pain in Spinal Cord Injury: A Scoping Review
 
 ## Introduction
 Spinal Cord Injury (SCI) is a neurological condition that typically causes significant disability. Secondary health conditions (SHCs) are experienced by a large proportion of the SCI population, with individuals with long-term SCI developing an average of 4 SHCs per year[^1], with shoulder pain being one of the most common and disabling[^2][^3][^4].

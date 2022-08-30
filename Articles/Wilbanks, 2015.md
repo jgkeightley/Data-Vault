@@ -5,7 +5,7 @@ tags:
 ---
 
 # Effectiveness of functional electrical stimulation assisted rowing to improve shoulder pain and aerobic fitness in manual wheelchair users with spinal cord injury
-Wilbanks, S. R. (2015). Effectiveness of functional electrical stimulation assisted rowing to improve shoulder pain and aerobic fitness in manual wheelchair users with spinal cord injury University of Alabama at Birmingham]. https://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,shib&db=rzh&AN=109828564&site=ehost-live&scope=site&custid=s5282536
+Wilbanks, S. R. (2015). Effectiveness of functional electrical stimulation assisted rowing to improve shoulder pain and aerobic fitness in manual wheelchair users with spinal cord injury [Ph.D., University of Alabama at Birmingham]. In Effectiveness of Functional Electrical Stimulation Assisted Rowing to Improve Shoulder Pain & Aerobic Fitness in Manual Wheelchair Users with Spinal Cord Injury (p. 110 p).
 
 ## General Information
 Country: #USA 
